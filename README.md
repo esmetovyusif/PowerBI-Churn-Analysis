@@ -11,8 +11,8 @@ Bu analiz şirkətlərə **riskli müştəriləri vaxtında müəyyənləşdirm�
 
 ---
 
-**DAX və Query İstifadəsi
-DAX (Data Analysis Expressions): Müştəri davranışı və churn göstəricilərini hesablamaq üçün istifadə olunur (məsələn, churn rate, aktiv müştəri sayı).
+**DAX və Query İstifadəsi**
+**DAX (Data Analysis Expressions): Müştəri davranışı və churn göstəricilərini hesablamaq üçün istifadə olunur (məsələn, churn rate, aktiv müştəri sayı).
 Query (Power Query / Məlumat Transformasiyası): Verilənləri təmizləmək, birləşdirmək və analiz üçün hazırlamaq məqsədilə istifadə olunur.**
 
 
